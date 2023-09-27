@@ -1,0 +1,29 @@
+button {
+    border: none;
+    border-radius: 5px;
+    background: #2CEF6E;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 60px;
+    height: 30px;
+    color: white;
+    font-weight: bolder;
+}
+
+header {
+    background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/12183.jpg);
+}
+
+.down {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo {
+    color: #2CEF6E;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.39);    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
